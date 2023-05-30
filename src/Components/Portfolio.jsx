@@ -33,8 +33,8 @@ const projectList = [
   {
     title: "10 Things To Know About Azure Static Web Apps 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Till may 27th 2024, this site should function. Site for TechTogether Hackathon May 2023, opening May 28th. ",
+    url: "alphois.tech",
   },
   {
     title: "Web Development for Beginners",

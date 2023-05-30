@@ -24,19 +24,33 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
+<<<<<<< HEAD
   "I'm a first year student at Queens College moving into my second year. I like coding as a hobby. ";
+=======
+  "I'm a Computer Science student studying at Queens College, City University of New York. I enjoy creating programs to manipulate data in useful ways.";
+>>>>>>> 4272828 (better site)
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
+<<<<<<< HEAD
   "CSS",
   "HTML",
   "Javascript",
   "Python",
   "C++",
   "Java"
+=======
+  "HTML",
+  "Python",
+  "CSS",
+  "C++",
+  "Java",
+  "React",
+  "Javascript"
+>>>>>>> 4272828 (better site)
 ];
 
 /**
@@ -44,7 +58,12 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
+<<<<<<< HEAD
 const detailOrQuote ="Currently leaning into learning data science";
+=======
+const detailOrQuote =
+  "I'm an undergraduate Computer Science and mathematics student passionate about making programs for manipulating data and probablistic modelling";
+>>>>>>> 4272828 (better site)
 
 const About = () => {
   return (

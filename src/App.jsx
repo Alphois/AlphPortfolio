@@ -25,6 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Krishna Dudani",
+<<<<<<< HEAD
   title: "College Student in CS",
   email: "krishna.dudani94@qmail.cuny.edu",
   gitHub: "https://github.com/Alphois/",
@@ -33,6 +34,16 @@ const siteProps = {
   medium: "",
   twitter: "",
   youTube: "",
+=======
+  title: "College student and web developer",
+  email: "krishna.dudani94@.qmail.cuny.edu",
+  gitHub: "Alphois",
+  instagram: "alphois_",
+  linkedIn: "Thingylink",
+  medium: "",
+  twitter: "Dont have this one",
+  youTube: "Dont have this either lollll",
+>>>>>>> 4272828 (better site)
 };
 
 const primaryColor = "#4E567E";
