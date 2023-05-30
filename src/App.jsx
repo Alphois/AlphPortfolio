@@ -24,17 +24,6 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Krishna Dudani",
-<<<<<<< HEAD
-  title: "College Student in CS",
-  email: "krishna.dudani94@qmail.cuny.edu",
-  gitHub: "https://github.com/Alphois/",
-  instagram: "alphois_",
-  linkedIn: "https://www.linkedin.com/in/krishna-dudani-a28842216/",
-  medium: "",
-  twitter: "",
-  youTube: "",
-=======
   title: "College student and web developer",
   email: "krishna.dudani94@.qmail.cuny.edu",
   gitHub: "Alphois",
@@ -43,7 +32,6 @@ const siteProps = {
   medium: "",
   twitter: "Dont have this one",
   youTube: "Dont have this either lollll",
->>>>>>> 4272828 (better site)
 };
 
 const primaryColor = "#4E567E";
